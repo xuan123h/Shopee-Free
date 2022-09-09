@@ -1,0 +1,59 @@
+{
+  "name": "shopee",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@hookform/resolvers": "^2.8.8",
+    "@material-ui/core": "^4.12.3",
+    "@mui/material": "^5.5.2",
+    "@reduxjs/toolkit": "^1.8.5",
+    "@tippyjs/react": "^4.2.6",
+    "dayjs": "^1.11.5",
+    "firebase": "^9.9.3",
+    "node-sass": "^7.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.28.1",
+    "react-modal": "^3.15.1",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.2",
+    "react-slick": "^0.28.1",
+    "react-toastify": "^9.0.8",
+    "redux": "^4.1.2",
+    "sass": "^1.54.5",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.3.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.0"
+  },
+  "main": "father.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuan123h/nodejs_shopee.git"
+  },
+  "keywords": [
+    "shopee",
+    "nodejs"
+  ],
+  "author": "xuannv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuan123h/nodejs_shopee/issues"
+  },
+  "homepage": "https://github.com/xuan123h/nodejs_shopee#readme",
+  "description": ""
+}

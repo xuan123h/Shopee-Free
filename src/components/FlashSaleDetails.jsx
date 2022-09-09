@@ -462,7 +462,7 @@ const FlashSaleDetails = ({ products }) => {
                   <p className="ml-[5px] mt-2">
                     <i class="bx bx-chevron-right"></i>
                   </p>
-                  <p className="w-[54px] h-[17px] text-[#000000CC] lg:text-[14px] ml-[6px] text-[12px]">
+                  <p className="w-[74px] h-[17px] text-[#000000CC] lg:text-[14px] ml-[6px] text-[12px]">
                     {" "}
                     Flash Sale{" "}
                   </p>
